@@ -5,7 +5,19 @@ sidebar_position: 8
 
 # Realidade Aumentada
 
-Desde 2019, desenvolvo experiências em Realidade Aumentada para redes sociais como Instagram, TikTok e Snapchat. Meus principais trabalhos são autorais ou para empresas/eventos.
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+Desde 2019, desenvolvo experiências em <Highlight color="#1877F2">Realidade Aumentada</Highlight> para redes sociais como Instagram, TikTok e Snapchat. Meus principais trabalhos são autorais ou para empresas/eventos.
 
 ![CMO Summit](../../static/img/canva-ticket.jpg)
 
@@ -14,13 +26,13 @@ Desde 2019, desenvolvo experiências em Realidade Aumentada para redes sociais c
 
 Junto com a VerseX, desenvolvi um ingresso em realidade aumentada para o evento CMO Summit, um dos maiores eventos online de Marketing no mundo. Após a inscrição, o usuário podia escanear o ingresso e ter uma experiência imersiva. 
 
-Mais informações no [link](https://www.instagram.com/p/Cg2MO7uu08G/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
+Mais informações no [link](https://www.instagram.com/p/Cg2MO7uu08G/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).
 
 ## Web Summit Rio - Target Tracking
 
 Para a VerseX, que esteve presente no evento Web Summit no Rio de Janeiro, desenvolvi um cartão de visita em Realidade Aumentada. 
 
-Mais informações no [link](https://www.instagram.com/reel/CsEmOWpOBb1/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
+Mais informações no [link](https://www.instagram.com/reel/CsEmOWpOBb1/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).
 
 ## Corteva - Hand Tracking
 
