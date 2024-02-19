@@ -1,11 +1,14 @@
 ---
 sidebar_label: 'Realidade Aumentada'
-sidebar_position: 1
+sidebar_position: 8
 ---
 
 # Realidade Aumentada
 
-Desde 2019, desenvolvo experiências em Realidade Aumentada para redes sociais como Instagram, TikTok e Snapchat. Meus principais trabalhos são autorais ou para empresas/eventos
+Desde 2019, desenvolvo experiências em Realidade Aumentada para redes sociais como Instagram, TikTok e Snapchat. Meus principais trabalhos são autorais ou para empresas/eventos.
+
+![CMO Summit](../../static/img/canva-ticket.jpg)
+
 
 ## CMO Summit - AR Ticket
 

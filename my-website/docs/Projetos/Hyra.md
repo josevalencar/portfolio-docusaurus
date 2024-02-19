@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hyra'
-sidebar_position: 3
+sidebar_position: 9
 ---
 
 # THE NEW ERA OF BOOKS. 

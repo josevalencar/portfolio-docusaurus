@@ -62,10 +62,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'José Vitor Alencar',
+        title: 'José Vitor | Alencar Hub',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/alencarhub.png',
         },
         items: [
           {
@@ -85,10 +85,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Portfólio',
             items: [
               {
-                label: 'Apresentação',
+                label: 'Introdução',
                 to: '/',
               },
             ],
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.linkedin.com/in/jos%C3%A9-vitor-alencar-161243211/',
               },
               {
                 label: 'GitHub',
@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: 'Instagram',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://www.instagram.com/alencarhub/',
               },
             ],
           },
