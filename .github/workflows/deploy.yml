@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - '.github/workflows/deploy.yml'
-      - 'portfolio-docusaurus/**'
+      - 'my-website/**'
   pull_request:
 
 jobs:
@@ -18,15 +18,15 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
         working-directory: my-website
 
       - name: Build website
