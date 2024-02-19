@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'José Vitor Alencar',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/alencarhub.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
